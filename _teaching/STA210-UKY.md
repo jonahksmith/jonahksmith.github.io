@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/STA210-UKY
 venue: "University of Kentucky, Dr. Bing Zhang Department of Statistics"
+date: 2025
 location: "Lexington, Kentucky"
 ---
 
