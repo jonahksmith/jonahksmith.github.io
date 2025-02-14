@@ -11,5 +11,5 @@ The goal of this course is to help students develop or refine their statistical 
 
 Spring 2025
 ======
-Virtual
+Virtual | 
 Primary instructor of record - 76 students

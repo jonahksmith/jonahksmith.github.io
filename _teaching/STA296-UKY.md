@@ -11,15 +11,15 @@ Introduction to principles of statistics with emphasis on conceptual understandi
 
 Fall 2023
 ======
-Virtual
+Virtual |
 Teaching assistant - 122 students
 
 Spring 2024
 ======
-Virtual
+Virtual | 
 Teaching assistant - 74 students
 
 Fall 2024
 ======
-T/R 14:00 - 15:15
+T/R 14:00 - 15:15 | 
 Primary instructor of record - 32 students
