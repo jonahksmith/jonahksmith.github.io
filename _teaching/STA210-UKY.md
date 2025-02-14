@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/STA210-UKY
 venue: "University of Kentucky, Dr. Bing Zhang Department of Statistics"
-date: 2025-01-01
+date: #2025-01-01
 location: "Lexington, Kentucky"
 ---
 
@@ -12,5 +12,4 @@ The goal of this course is to help students develop or refine their statistical 
 
 Spring 2025
 ======
-Virtual | 
-Primary instructor of record - 76 students
+Virtual | Primary instructor of record - 76 students

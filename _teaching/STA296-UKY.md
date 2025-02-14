@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/STA296-UKY
 venue: "University of Kentucky, Dr. Bing Zhang Department of Statistics"
-date: 2023-08-01
+date: #2023-08-01
 location: "Lexington, Kentucky"
 ---
 
