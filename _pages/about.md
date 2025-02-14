@@ -25,6 +25,6 @@ While at Florida State, I completed an honors undergraduate thesis under the dir
 
 Miscellaneous
 ------
-In my free time I bake a lot of bread, edit [Wikipedia]i(https://en.wikipedia.org/wiki/User:Jonahksmith), and self-study languages.
+In my free time I bake a lot of bread, edit [Wikipedia](https://en.wikipedia.org/wiki/User:Jonahksmith), and self-study languages.
 I am incredibly interested in Slavic linguistics, and speak a decent amount of both Ukrainian and Russian.
 Many of my future research projects are influenced by the intersections of these fields.
