@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: "Jonah Smith (Disambiguation)"
 author_profile: true
 ---
 
