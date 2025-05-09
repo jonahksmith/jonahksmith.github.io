@@ -9,23 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! My name is Jonah, I’m a graduate student at the [University of Kentucky](https://www.uky.edu).
-I study statistics in the [Dr. Bing Zhang Department of Statistics](https://www.stat.as.uky.edu).
-
-## Work and Research
-My work focuses on any of the intersections between mathematics, ecology, food, and language.
-I am a mathematical modeler, specializing in both differential equations and recurrent processes in biology and food science. 
-My current interests tend more towards phylogenetics, graphs, and algebraic statistics.
-Many of my research interests in food science come from first-hand experience working with pastry and bread at [The Hawthorne](https://www.hawthorntlh.com/), a lovely bakery in Tallahassee.
+## About Me
+I am a statistician and mathematician specializing in applied methods for the humanities and social sciences.
+My interests and experiences span fields such as linguistics, education, library science, and public policy.
+As a statistician, I primarily concern myself with stochastic processes and machine learning techniques.
+Within mathematics, I have experience in modeling with systems of differential equations, borrowing extensively from the biomathematical canon.
 
 ## Background and History
-I am set to receive my M.S. from the University of Kentucky in May 2025.
-I previously received a B.S. in [Applied and Computational Mathematics](https://www.math.fsu.edu/) from the [Florida State University](https://fsu.edu/) in 2023.
-While at Florida State, I completed an honors undergraduate thesis under the direction of [Dr. Nick Cogan](https://www.math.fsu.edu/~cogan/).
+### Education
+* *[M.S. Statistics](https://stat.as.uky.edu/)*, [University of Kentucky](https://www.uky.edu/) (2025)
+* *[B.S. Mathematics](https://www.math.fsu.edu/)*, [Florida State University](https://fsu.edu/) (2023)
 
-## Miscellaneous
-In my free time I bake a lot of bread, edit Wikipedia, and self-study languages.
-I am also a musician; I sing in the [Lexington Singers](https://www.lexsing.org/) (as a low bass) and have been playing the tuba for over 10 years.
-I am incredibly interested in Slavic linguistics, and speak a decent amount of both Ukrainian and Russian.
-In addition, I can speak Spanish with working proficiency.
-Many of my future research projects are influenced by the intersections of these fields.
+While at Florida State, I completed an honors undergraduate thesis under the direction of [Dr. Nick Cogan](https://www.math.fsu.edu/~cogan/).
