@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jonah Smith"
 title_separator          : "-"
 name                     : &name "Jonah Smith"
-description              : &description "M.S. Statistics Student at the University of Kentucky"
+description              : &description "Statistician and mathematician"
 url                      : https://jonahksmith.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jonahksmith/jonahksmith.github.io"
@@ -24,15 +24,15 @@ author:
   avatar           : "bird.png"
   name             : "Jonah Smith"
   pronouns         : "he/they"  
-  bio              : "Mathematician, not a bird."
-  location         : #"Lexington, Kentucky"
-  employer         : "University of Kentucky"
+  bio              : "Statistician and mathematician"
+  location         : "Lexington, Kentucky"
+  employer         : #"University of Kentucky"
   uri              : # URL
   email            : "jonahksmith@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=sg-oxuoAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=sg-oxuoAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # "http://orcid.org/0000-0001-6140-0380"
   semantic         : # URL
@@ -44,7 +44,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "jonahksmith"
-  kaggle           : # Username  
+  kaggle           : jonahksmith
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
