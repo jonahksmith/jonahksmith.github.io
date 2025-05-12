@@ -1,11 +1,9 @@
 ---
 permalink: /contact/
-title: "Jonah Smith (Disambiguation)"
+title: "Contact"
 author_profile: true
 ---
 
-Surprisingly, there are quite a few people named "Jonah Smith" out there.
-This is for differentiating.
 Please reserve all career correspondence for the second "recruiting/work" address.
 If I want to be found somewhere, my username is typically `jonahksmith`.
 
