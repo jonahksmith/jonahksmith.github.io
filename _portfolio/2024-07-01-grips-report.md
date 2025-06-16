@@ -11,7 +11,7 @@ turbines situated behind each other to understand what variables in a simula-
 tion have the largest impact on energy output"
 
 collection: portfolio
-date: 2023-04-27
+date: 2024-07-01
 ---
 
 [Download the PDF here](https://jonahksmith.github.io/documents/grips-report.pdf)
